@@ -15,7 +15,7 @@
 
 ## 🧩 Обрані проєкти
 - **Портфоліо (React + Vite, шаблонна реалізація з подальшим рефакторингом)**  
-  Live: https://portfolio-kappa-rose-0nghoa6408.vercel.app/  
+  Live: https://vitaliifedunyk.vercel.app/ 
   Repo: https://github.com/vitaliifedunyk/portfolio
 
 - **EcoTote (переписано на Tailwind, повністю адаптивна верстка)**  
