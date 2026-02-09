@@ -2,8 +2,8 @@
 
 # Hi, I’m Vitalii Fedunyk 👋
 
-Frontend development student at **GoIT**, focused on building responsive websites
-and gradually moving toward React development.
+Full-stack development student at **GoIT**, currently focused on frontend
+and gradually moving toward React and backend development.
 
 This profile reflects my **learning journey** and ongoing progress.
 
@@ -49,6 +49,7 @@ This profile reflects my **learning journey** and ongoing progress.
 - Deepen React knowledge
 - Refactor portfolio step by step
 - Build small custom React projects
+- Start learning backend fundamentals (Node.js)
 
 ---
 Thanks for visiting 👋
