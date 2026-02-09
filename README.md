@@ -15,7 +15,7 @@ This profile reflects my **learning journey** and ongoing progress.
 
 ## 🧩 Selected projects
 - **Portfolio (React + Vite, template-based, will be refactored later)**  
-  Live: https://portfolio-kappa-rose-0nghoa6408.vercel.app/  
+  Live: https://vitaliifedunyk.vercel.app/
   Repo: https://github.com/vitaliifedunyk/portfolio
 
 - **EcoTote (Tailwind rewrite, fully responsive)**  
