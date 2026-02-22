@@ -37,19 +37,4 @@ This profile reflects my **learning journey** and ongoing progress.
 - Vite, npm
 - Git / GitHub
 
-## 📚 Practice repositories
-- JavaScript practice: https://github.com/vitaliifedunyk/js-pract  
-- Blended lessons practice: https://github.com/vitaliifedunyk/blended-js  
-- CSS Grid practice: https://github.com/vitaliifedunyk/grid  
-- Templates:
-  - Vanilla: https://github.com/vitaliifedunyk/vanilla-template
-  - Vanilla + Tailwind: https://github.com/vitaliifedunyk/vanilla-tailwind-template
-
-## 🗺️ Next steps
-- Deepen React knowledge
-- Refactor portfolio step by step
-- Build small custom React projects
-- Start learning backend fundamentals (Node.js)
-
----
 Thanks for visiting 👋
