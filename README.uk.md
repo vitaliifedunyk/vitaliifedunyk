@@ -1,1 +1,0 @@
-# Привіт, я Vitalii Fedunyk 👋
