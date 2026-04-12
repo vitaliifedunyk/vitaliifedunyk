@@ -1,82 +1,64 @@
-<h1 align="center">Vitalii Fedunyk</h1>
+# Vitalii Fedunyk
 
-<p align="center">
-  Fullstack Developer &nbsp;·&nbsp; Italy 🇮🇹 &nbsp;·&nbsp; Remote-first &nbsp;·&nbsp; Open to EU relocation
-</p>
+Frontend Developer based in Italy  
+Open to remote and EU opportunities
 
-<p align="center">
+<p>
   <a href="https://vitaliifedunyk.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/vitaliifedunyk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vitaliifedunyk.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
+## About Me
 
-## About
+Frontend developer focused on responsive interfaces, modern JavaScript applications, and API integration. My strongest practical stack is HTML, CSS, JavaScript, Tailwind CSS, and Vite, with additional project experience in TypeScript, React, testing, and REST APIs.
 
-Fullstack developer focused on React, TypeScript, and Node.js.
-I build complete web apps — from UI to API — and care about clean code and real performance.
-
-- 📍 Italy — available for remote or on-site roles in the EU
-- 🛠 Working across the full stack: React frontends, Express APIs, Docker deployments
-- 🔍 Looking for a first professional role where I can ship real features
-
----
-
-## Tech Stack
-
-**Frontend**
+## Core Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-**Backend & Tools**
+## Additional Experience
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/REST_API-0A66C2?style=flat-square&logo=json&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
----
+## Featured Projects
 
-## Projects
+| Project | Description | Stack | Live |
+| --- | --- | --- | --- |
+| [Portfolio](https://github.com/vitaliifedunyk/portfolio) | Personal frontend portfolio with animated UI, theme switching, and project filtering. | React, TypeScript, Tailwind CSS, Framer Motion | [Live](https://vitaliifedunyk.vercel.app/) |
+| [RepoFinder](https://github.com/vitaliifedunyk/repofinder) | GitHub search app with user and repository lookup, pagination, loading states, and error handling. | TypeScript, Vite, Tailwind CSS, REST API, Vitest | [Live](https://repofinder.vercel.app) |
+| [JobFlow](https://github.com/vitaliifedunyk/jobflow) | Job application tracker with CRUD operations, filtering, sorting, and local persistence. | JavaScript, Vite, LocalStorage | [Live](https://jobflow-crud.vercel.app/) |
+| [Bug Hunters](https://github.com/vitaliifedunyk/bug-hunters) | Furniture store frontend with product catalog, filters, modals, and API-driven interactions. | JavaScript, Vite, REST API | [Live](https://vitaliifedunyk.github.io/bug-hunters/) |
 
-| Project                                                    | Description                                                                                  | Stack                             | Demo                                                   |
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------ |
-| [Portfolio](https://github.com/vitaliifedunyk/portfolio)   | Personal developer portfolio — dark mode, Framer Motion animations, scroll-synced navigation | React 19, TypeScript, Tailwind v4 | [Live ↗](https://vitaliifedunyk.vercel.app/)           |
-| [RepoFinder](https://github.com/vitaliifedunyk/repofinder) | GitHub repo search — real-time API queries with loading, empty, and error states             | JavaScript, GitHub API            | [Live ↗](https://vitaliifedunyk.github.io/repofinder/) |
-| [JobFlow](https://github.com/vitaliifedunyk/jobflow)       | Task manager with status filtering and localStorage persistence                              | JavaScript                        | [Live ↗](https://vitaliifedunyk.github.io/jobflow/)    |
+## More Frontend Work
 
----
+- [Yachtjet](https://github.com/vitaliifedunyk/yachtjet) - responsive landing page with Tailwind CSS, form validation, and adaptive layout
+- [Eco Tote](https://github.com/vitaliifedunyk/eco-tote) - landing page rebuilt with Tailwind CSS and Vite, focused on semantic HTML and clean structure
+- [Web Studio](https://github.com/vitaliifedunyk/web-studio) - multi-section website with semantic markup, modal interaction, and mobile menu behavior
 
-## GitHub Stats
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitaliifedunyk&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliifedunyk&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to fullstack developer roles — remote, hybrid, or on-site in the EU 🇪🇺</i>
-</p>
+- Portfolio: [vitaliifedunyk.vercel.app](https://vitaliifedunyk.vercel.app/)
+- LinkedIn: [linkedin.com/in/vitaliifedunyk](https://www.linkedin.com/in/vitaliifedunyk/)
+- Email: [vitaliifedunyk.dev@gmail.com](mailto:vitaliifedunyk.dev@gmail.com)
