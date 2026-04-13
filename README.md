@@ -79,8 +79,11 @@ I also have project experience with TypeScript, React, REST API integration, loc
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitaliifedunyk&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliifedunyk&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=vitaliifedunyk&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitaliifedunyk&theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
 ---
