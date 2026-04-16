@@ -1,7 +1,7 @@
 <h1 align="center">Vitalii Fedunyk</h1>
 
 <p align="center">
-  Frontend Developer &nbsp;·&nbsp; Italy 🇮🇹 &nbsp;·&nbsp; Open to remote and EU opportunities
+  Junior Frontend Developer &nbsp;·&nbsp; Italy 🇮🇹 &nbsp;·&nbsp; Open to remote and EU opportunities
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## About
 
-Frontend developer focused on responsive interfaces, JavaScript applications, and API integration.
+Junior Frontend Developer focused on responsive interfaces, JavaScript applications, and API integration.
 
 My strongest practical stack today is HTML, CSS, Tailwind CSS, JavaScript, Vite, Git, and GitHub.  
 I also have project experience with TypeScript, React, REST API integration, localStorage-based state handling, and basic testing with Vitest.
