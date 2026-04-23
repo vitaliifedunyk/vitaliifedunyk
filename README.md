@@ -69,11 +69,11 @@ I have experience building personal and team-based frontend projects, with a foc
 ## Featured Projects
 
 | Project | Description | Stack | Demo |
-|--------|-------------|-------|------|
-| [Portfolio](https://github.com/vitaliifedunyk/portfolio) | Personal frontend portfolio with animated UI and theme switching | React, TypeScript, Tailwind CSS | [Live ↗](https://vitaliifedunyk.vercel.app/) |
-| [RepoFinder](https://github.com/vitaliifedunyk/repofinder) | GitHub search app with typed API integration, pagination, and UI states | TypeScript, Tailwind CSS, Vite | [Live ↗](https://repofinder.vercel.app/) |
-| [JobFlow](https://github.com/vitaliifedunyk/jobflow) | Job application tracker with CRUD, filters, sorting, and localStorage | JavaScript, Vite | [Live ↗](https://jobflow-crud.vercel.app/) |
-| [Bug Hunters](https://github.com/vitaliifedunyk/bug-hunters) | Team-built furniture store frontend with API integration | JavaScript, Axios, Vite | [Live ↗](https://vitaliifedunyk.github.io/bug-hunters/) |
+|--------|------------|-------|------|
+| **Portfolio Website** | Personal frontend portfolio built with React, TypeScript, and Tailwind CSS. Includes reusable components, responsive layout, and animated UI with Framer Motion. | React, TypeScript, Tailwind CSS | [Live](https://vitaliifedunyk.vercel.app) |
+| **RepoFinder** | GitHub user and repository search application with API integration, pagination, and loading/error states. Focused on structured data handling and clean UI. | TypeScript, Tailwind CSS, Vite | [Live](https://repofinder.vercel.app) |
+| **JobFlow** | Job application tracker with CRUD operations, filtering, sorting, and localStorage persistence. Focused on practical UI behavior and state management. | JavaScript, Vite | [Live](https://jobflow-crud.vercel.app/) |
+| **Bug Hunters** | Team-based furniture store frontend with responsive UI and REST API integration. Worked as Team Lead, coordinating structure and development workflow. | JavaScript, REST API, Vite | [Live](https://vitaliifedunyk.github.io/bug-hunters/) |
 
 ---
 
