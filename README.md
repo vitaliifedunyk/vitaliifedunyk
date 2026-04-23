@@ -20,10 +20,11 @@
 
 ## About
 
-Junior Frontend Developer focused on responsive interfaces, JavaScript applications, and API integration.
+Frontend developer focused on building responsive interfaces and practical web applications.
 
-My strongest practical stack today is HTML, CSS, Tailwind CSS, JavaScript, Vite, Git, and GitHub.  
-I also have project experience with TypeScript, React, REST API integration, localStorage-based state handling, and basic testing with Vitest.
+My core stack includes HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Vite, Git, and GitHub. I also have hands-on experience with REST API integration, localStorage, Axios, and basic testing with Vitest.
+
+I have experience building personal and team-based frontend projects, with a focus on clean UI, adaptive layout, and structured implementation.
 
 - 📍 Based in Italy
 - 💼 Open to junior frontend opportunities across the EU
